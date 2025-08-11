@@ -3,7 +3,7 @@
 🎓 Student | B.E. CSE @ K.S.Rangasamy College of Technology  
 💻 Aspiring Software Developer | Java & DSA Enthusiast  
 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/26xBukh9KFqqoeYP2/giphy.gif">
+
 
 - 🔭 Here's my [Portfolio](https://protfolio-final.web.app)  
 - 🌱 I’m currently learning **Java DSA** and building real-world projects  
