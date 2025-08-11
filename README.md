@@ -13,13 +13,13 @@
 
 ---
 
-### ​ Social Presence
+### 📌 Social Presence
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sanjay-dhatchanamoorthi)  
 [<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Sanjay5274)  
 
 ---
 
-### ​ Tech Stack
+### 🛠 Tech Stack
 <p>
 <img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
 <img height="50" src="https://img.icons8.com/color/48/c-programming.png" />
@@ -31,16 +31,16 @@
 
 ---
 
-### ​ IDE & Tools
+### 🖥 IDE & Tools
 <p>
-<img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
-<img height="50" src="https://img.icons8.com/color/48/eclipse.png" />
-<img height="50" src="https://img.icons8.com/color/48/git.png" />
+<img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<img height="50" src="https://img.icons8.com/color/48/eclipse.png"/>
+<img height="50" src="https://img.icons8.com/color/48/git.png"/>
 </p>
 
 ---
 
-### ​ Workspace
+### 💻 Workspace
 <p>
 <img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
