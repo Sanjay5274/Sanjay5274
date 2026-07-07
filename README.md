@@ -27,21 +27,17 @@
 ---
 
 ### 🖥 IDE & Tools
-<p>
-<img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-<img height="50" src="https://img.icons8.com/color/48/eclipse.png"/>
-<img height="50" src="https://img.icons8.com/color/48/git.png"/>
-<img height="50" src="https://www.secureideas.com/hubfs/Imported_Blog_Media/postman2-4.png"/>
-<img height="50" src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?h=307"/>
-<img height="50" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_240/https%3A%2F%2Fdashboard.snapcraft.io%2Fsite_media%2Fappmedia%2F2025%2F11%2FIntelliJ_IDEA_icon.svg.png"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,postman&perline=6" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="48"/>
 </p>
 
 ---
 
 ### 💻 Workspace
-<p>
-<img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AMD-Ryzen_7-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 </p>
 
 ---
