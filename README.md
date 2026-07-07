@@ -20,19 +20,8 @@
 ---
 
 ### 🛠 Tech Stack
-<p>
-<img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
-<img height="50" src="https://img.icons8.com/color/48/c-programming.png" />
-<img height="50" src="https://img.icons8.com/color/48/html-5.png" />
-<img height="50" src="https://img.icons8.com/color/48/css3.png" />
-<img height="50" src="https://img.icons8.com/color/48/javascript.png" />
-<img height="50" src="https://img.icons8.com/color/48/git.png" />
-<img height="50" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*BwJ84XJUWpPNpSKFGU8KDQ.png" />
-<img height="50" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*-VVwL0nee9RgEhJB.png" />
-<img height="50" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png" />
-<img height="50" src="https://www.altnix.com/_next/static/media/postgreSQL.857496f6.png" />
-<img height="50" src="https://keyholesoftware.com/wp-content/uploads/Spring-Boot.png.webp" />
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,nodejs,react,mongodb,postgres,spring,git&perline=6" />
 </p>
 
 ---
