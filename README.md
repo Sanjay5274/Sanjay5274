@@ -1,6 +1,6 @@
 ## Hey there 👋 It's me Sanjay!
 
-🎓 Student | B.E. CSE @ K.S.Rangasamy College of Technology  
+🎓 Graduate | B.E. CSE'26 @ K.S.Rangasamy College of Technology  
 💻 Aspiring Software Developer | Java & DSA Enthusiast  
 
 
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Java DSA** and building real-world projects  
 - 🏆 Finalist – Cyberthon 2025 (Top 75 out of 1000+ teams)  
 - 📫 Reach me at: **sanjayd5274@gmail.com**  
-- ⚡ Fun fact: I can code Java for hours without coffee 😎  
+   
 
 ---
 
